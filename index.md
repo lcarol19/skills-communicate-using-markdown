@@ -18,3 +18,8 @@ Repositório Git vazio inicializado em /Users/skills/Projects/recipe-repository/
 ``` javascript
 var myVar = "Olá, mundo!";
 ```
+
+#### Lista de tarefas
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
